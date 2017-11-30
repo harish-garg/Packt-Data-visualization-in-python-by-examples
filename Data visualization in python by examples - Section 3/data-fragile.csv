@@ -1,0 +1,179 @@
+Rank,Country,2017 score,Change from 2016,Change from 2015,Change from 2014,Change from 2013,Change from 2012,Change from 2011,Continent
+1,South Sudan,113.9,0.1,0.7,0.9,3.2,5.4,,Africa
+2,Somalia,113.4,0.6,,1.4,0.1,0.9,0.6,Africa
+3,Central African Republic,112.6,0.5,0.2,1.5,6.8,8.3,7.1,Africa
+4,Yemen,111.1,0.4,3.4,6.1,4.5,6.7,11.2,Africa
+5,Sudan,110.6,0.9,0.7,1.4,0.5,2.1,2.8,Africa
+6,Syria,110.6,0.2,2.9,9.2,13.4,16.3,24.9,Asia
+7,Democratic Republic of the Congo,110,,0.3,0.2,1.9,1.2,1.8,Africa
+8,Chad,109.4,0.7,1.7,1.4,1.1,2.5,0.2,Africa
+9,Afghanistan,107.3,0.6,,1.4,1.2,1.9,0.4,Asia
+10,Iraq,105.4,0.7,0.2,2.5,0.8,0.4,0.1,Asia
+11,Haiti,105.3,0.2,0.6,0.8,0.7,0.2,2.9,Central America
+12,Guinea,102.4,1.4,1.1,1.1,2.5,1.9,1.3,Africa
+13,Nigeria,101.6,1.9,1.1,3.8,2.8,2.4,3.6,Africa
+13,Zimbabwe,101.6,1.1,0.5,2.3,4.7,5.8,7.4,Africa
+15,Ethiopia,101.1,3.9,0.3,0.7,1.7,0.7,1,Africa
+16,Guinea-Bissau,99.5,0.3,0.1,0.8,1.3,0.6,1.5,Africa
+17,Burundi,98.9,1.8,2.6,3.6,3.1,3.2,2.1,Africa
+17,Pakistan,98.9,2.8,1.2,1.3,1.2,0.1,0.6,Asia
+19,Eritrea,98.1,0.5,1.7,3.1,3.6,4.1,5,Africa
+20,Niger,97.4,1,0.6,0.5,0.6,1.5,0.7,Africa
+21,Côte d'Ivoire,96.5,1.4,2.1,3.8,5.6,5.7,4.9,Africa
+22,Kenya,96.4,1.9,0.9,0.7,1.3,0.1,0.4,Africa
+23,Libya,96.3,0.1,1.1,8.6,11.9,11.5,27.7,Africa
+24,Uganda,96,1.7,0.7,1.7,1.1,1.2,1.4,Africa
+25,Myanmar,95.7,0.6,1.6,2,1.7,0.1,2,Asia
+26,Cameroon,95.6,2.2,3.5,4.7,4.3,4.7,3.2,Africa
+27,Liberia,93.8,1.7,1.8,1.2,0.4,2.2,1.5,Africa
+28,Mauritania,93.7,1.7,0.5,2.4,3.7,7.8,7.4,Africa
+29,Republic of the Congo,93.4,1.2,1.4,2.6,2.2,2.1,0.8,Africa
+30,North Korea,93.3,0.6,0.1,0.1,1.2,1.6,1.7,Asia
+31,Mali,92.9,2.3,2.1,5.4,5.9,17.3,15.9,Africa
+32,Angola,91.1,0.6,2.4,3.1,3.4,5.4,5.9,Africa
+33,Nepal,91,0.2,0.7,0.2,0.6,1.8,2.5,Asia
+34,Rwanda,90.8,0.5,1.1,0.8,2,2,0.3,Africa
+35,Timor-Leste,90.5,0.3,0.2,0.2,0.7,1.9,4.1,Asia
+36,Egypt,89.8,0.4,0.2,0.8,0.4,0.2,3.4,Africa
+37,Gambia,89.4,2.6,1.4,3.7,5,6.2,5.9,Africa
+38,Sierra Leone,89.3,1.7,0.9,1.1,0.2,0.6,1.1,Africa
+39,Bangladesh,89.1,1.6,1.1,2.1,1.8,1.5,3.7,Asia
+40,Mozambique,89,1.2,0.9,1.9,5,5.4,4.2,Africa
+41,Djibouti,88.9,0.8,1.6,2.6,4.2,5.9,7.1,Africa
+42,Swaziland,88.8,1.2,1.3,1.8,2,4.1,5.1,Africa
+43,Lebanon,88.2,1.4,1.5,2.7,3.3,3.8,1.9,Asia
+44,Burkina Faso,88,1.4,0.2,0.4,0.8,2,0.8,Africa
+44,Malawi,88,0.4,0.7,1.5,1.6,1.2,3.6,Africa
+46,Zambia,87.8,1.5,1.1,0.1,0.3,0.4,2.5,Africa
+47,Sri Lanka,86.6,1.1,2.9,4.9,5.2,4.5,5.4,Asia
+48,Papua New Guinea,86.4,0.2,2.8,2.1,1.3,2.5,2,Asia
+49,Iran,85.8,1.1,0.3,0.3,2.8,2.7,3.3,Asia
+50,Cambodia,85.7,1.7,0.5,1.1,0.6,1.3,1.1,Asia
+51,Equatorial Guinea,85,0.2,0.4,0.1,0.9,1.1,2.9,Africa
+52,Comoros,84.8,1,0.5,1.3,0.2,0.8,,Africa
+52,Solomon Islands,84.8,0.5,0.6,1.1,0.1,0.3,0.6,Oceania
+54,Philippines,84.4,0.3,1.6,0.6,1.9,1.5,0.3,Asia
+55,Madagascar,84,0.2,0.6,1.1,1.5,1.7,1,Africa
+56,Togo,83.9,1.9,1,2,2,1.7,3.6,Africa
+57,Guatemala,83.1,0.1,2.8,2.9,2.5,3.8,3.1,South America
+58,Venezuela,82.9,1.3,3,4.9,6.3,4.3,3.4,South America
+59,Laos,82.4,2,0.1,0.1,0.7,1.1,2.3,Asia
+60,Senegal,82.3,1.3,0.6,0.8,2.2,4.3,6.8,Africa
+61,Tajikistan,81.8,2,0.4,0.8,1.4,1.9,4.5,Asia
+62,Lesotho,81.7,0.8,1,2.3,1.5,1.9,0.5,Africa
+63,Uzbekistan,81.5,2,1.9,2.8,3.4,4,4.8,Asia
+64,Turkey,80.8,3.5,2.8,3.2,1.4,0.7,5.8,Asia
+65,Kyrgyzstan,80.3,0.8,1.1,2.8,4.6,6.3,10.7,Asia
+65,Tanzania,80.3,1.5,1,1,0.7,1.4,0.5,Africa
+67,Russia,79.2,1.8,1,4.5,3.9,3.9,3.3,Europe
+68,Honduras,79.1,0.7,1.6,1.9,1.5,1.3,1.5,Central America
+69,Colombia,78.9,1.3,2.3,2.9,3.6,4.2,6.8,South America
+69,Israel / West Bank,78.9,0.8,0.3,0.2,1.1,2.5,4.7,Asia
+71,Jordan,78.7,0.7,1.1,1.3,2.3,3.2,3.5,Asia
+72,India,77.9,1.7,0.2,2.7,2.1,1.6,0.3,Asia
+73,Benin,77.6,1.3,0.1,0.7,1,0.3,1.1,Africa
+74,Nicaragua,77.4,1.6,,0.6,0.2,0.6,2.2,South America
+75,Ecuador,77.3,1.7,0.3,1.7,3,4.5,6.6,South America
+76,Fiji,76.9,0.7,0.6,2.8,4.6,4.3,4.9,Oceania
+77,Algeria,76.8,1.5,1.3,0.5,0.4,0.2,0.3,Africa
+77,Bolivia,76.8,1.5,0.5,0.4,2.3,3.6,4.4,South America
+79,Georgia,76.5,2.4,0.4,3.8,5.3,5.9,7.5,Europe
+80,Micronesia,76.4,0.7,3.5,2.5,4.2,5.2,5.2,Oceania
+81,Azerbaijan,76.3,,1,1.5,1.9,3.5,5.6,Asia
+82,Thailand,76.2,2.6,0.3,1.8,3.7,1.8,0.5,Asia
+83,Bhutan,76,1.6,1.1,3.3,4.2,4.8,7.4,Asia
+84,Morocco,74.9,0.7,0.4,0.2,0.1,1.9,2.1,Africa
+85,China,74.7,0.2,1.5,4.1,6,3.4,5.2,Asia
+86,Maldives,74.4,0.4,0.2,1.4,1.4,1.1,1.6,Asia
+86,Turkmenistan,74.4,1.6,1.5,2.2,0.7,1.4,3.7,Asia
+88,Mexico,74.3,3.9,1.4,0.7,2.7,3.2,4.7,North America
+89,Tunisia,74.2,0.4,1.2,2.9,1.9,0.4,4.5,Africa
+90,Ukraine,74,1.5,0.8,8.3,9.6,8.3,6.5,Europe
+91,Gabon,73.8,1.8,0.7,0.2,0.9,2.6,3.3,Africa
+92,El Salvador,73.1,0.6,1.1,0.5,0.7,1.9,3.5,Central America
+93,Bosnia,73,1.6,2.8,1.3,1.9,3.3,6.3,Europe
+94,Indonesia,72.9,2,0.1,1.9,3.3,5.7,6.7,Asia
+95,Belarus,72.4,1.5,1.7,1.1,2.8,2.7,3.7,Europe
+96,South Africa,72.3,2.4,2.9,3.3,2.3,3.1,2.3,Africa
+97,São Tomé and Príncipe,72.1,0.8,0.8,2.9,1.7,1,1.6,Africa
+98,Moldova,72,1.2,0.2,1.9,3.3,5.5,8,Europe
+99,Paraguay,71.6,1,1.3,1,0.8,1.7,0.2,South America
+100,Guyana,71.3,0.4,0.4,0.1,0.1,0.5,1.7,South America
+101,Saudi Arabia,71.2,1,0.6,0.9,0.5,1.2,3,Asia
+102,Armenia,71,1.4,0.1,1.7,1.7,2.6,2.7,Asia
+103,Namibia,70.4,0.7,0.3,0.4,0.7,0.1,0.6,Africa
+104,Peru,70.3,1.7,0.1,0.9,0.3,1.5,1.6,South America
+105,Vietnam,70.2,0.5,1.7,2,2.4,3.3,5.4,Asia
+106,Cape Verde,70.1,1.4,2,2.6,2.2,3.2,4.3,Africa
+107,Serbia,70,2,1.8,,2.4,3,2.4,Europe
+108,Ghana,69.7,1.5,0.7,0.5,2.1,3.7,3.5,Africa
+109,Dominican Republic,69,1.8,0.4,2.6,2.4,3.3,6.1,South America
+110,Brazil,68.2,2.9,2.7,3.9,3.2,1.2,0.2,South America
+111,Samoa,67.1,0.5,0.6,1.7,1.1,0.9,1.9,Oceania
+112,Macedonia,66.1,0.9,2.5,0.6,1,2.1,4,Europe
+113,Kazakhstan,65.9,0.6,1.8,2,3.3,4.4,3.7,Asia
+113,Suriname,65.9,0.8,1.7,3.9,4.5,4.5,4.4,South America
+115,Belize,65.5,0.5,0.7,1,1.2,1.2,1.7,Central America
+116,Malaysia,65.4,0.7,0.2,0.1,,2.4,2.6,Asia
+117,Jamaica,65.2,0.2,0.4,0.1,0.6,0.8,2.1,Central America
+118,Bahrain,64.9,1.5,0.9,1.3,0.5,1.2,4.4,Asia
+119,Cuba,64.6,1.7,1.1,4.5,6.5,6.8,10.3,Central America
+120,Botswana,63.8,0.3,0.7,1,0.5,3,4.4,Africa
+121,Cyprus,62.6,1.4,2.2,3.9,3,2.8,3.6,Europe
+122,Brunei,61.6,0.4,1,1.6,1.2,2.1,3.8,Asia
+123,Grenada,61.5,1.5,0.4,2.2,1.6,2,3.4,Central America
+124,Albania,60.5,0.7,0.7,2.4,4,4.9,4.9,Europe
+125,Seychelles,59.4,0.8,1.9,3.5,3.8,4.9,6.8,Africa
+126,Kuwait,58.5,,1,0.5,1.1,0.3,1,Asia
+127,Greece,57.5,1.6,3.3,3.8,5.3,5.5,8.5,Europe
+128,Mongolia,56.7,0.1,0.4,1.5,1.2,2.1,3,Asia
+128,Trinidad and Tobago,56.7,1.1,0.9,3.5,4.8,6.6,5.9,Central America
+130,Montenegro,55.7,0.5,1,0.5,0.8,0.3,1.1,Europe
+131,Antigua and Barbuda,54.8,1.4,1.6,2.8,1.8,2.7,3.7,Central America
+132,Bulgaria,53.7,,1.7,0.7,1.3,2.6,5.3,Europe
+133,Oman,52.5,0.9,0.4,1.5,0.4,0.1,2.3,Asia
+134,Bahamas,52.4,0.8,,2.5,3.1,3.5,4.9,Central America
+135,Hungary,52,0.7,3.6,4.4,5.1,4.4,4,Europe
+136,Romania,50.9,2,1.3,4,4.5,6.6,6.9,Europe
+137,Panama,50.7,2.5,1.4,2.5,2.6,2.9,4.6,Central America
+138,Croatia,50.6,1.8,1.4,0.5,1.7,3.9,4.9,Europe
+139,Barbados,49.6,0.6,0.3,2.4,1.8,3,3.8,Central America
+140,Argentina,48.2,0.2,0.8,1.1,2.3,1.9,1.6,South America
+141,Latvia,46.4,1,1.2,0.6,0.5,4.5,6.8,Europe
+142,Italy,45.2,2.1,0.1,0.3,1.5,2.7,2.7,Europe
+143,Estonia,44.7,1.3,0.4,1.8,1.9,4.1,5.9,Europe
+144,Slovakia,44.3,0.6,2.3,0.4,0.4,2.5,2.2,Europe
+145,Costa Rica,44.1,1,1.6,3.4,3.6,4.6,5.5,Central America
+146,Qatar,44,1.1,1.2,3.8,2,2.9,4.4,Asia
+147,United Arab Emirates,43.7,0.8,1.7,3.1,2.8,4.4,5.9,Asia
+148,Lithuania,41.7,0.7,0.6,0.8,0.6,1.8,2.9,Europe
+148,Mauritius,41.7,1.5,2,2.9,1.3,1.5,1,Africa
+150,Chile,41.1,0.8,0.4,0.1,0.4,1.6,1.2,South America
+151,Poland,40.8,0.1,0.9,1.4,0.2,3.6,6.1,Europe
+152,Czech Republic,40.1,0.7,3.4,1.4,0.9,1.3,1.6,Europe
+153,Malta,38.6,1,1.3,3.4,2.8,4.2,5.8,Europe
+154,South Korea,38.1,2,0.2,0.3,0.7,1.5,2.7,Asia
+155,Spain,37.9,1.9,1.1,3.3,4.6,3,3.3,Europe
+156,Japan,37.4,2.3,0.9,1.2,1,8.4,4.1,Asia
+157,Uruguay,36.8,0.6,0.3,1.7,2.2,4.3,4.2,South America
+158,United States,35.6,1.6,1.3,1.4,0.5,0.8,0.8,North America
+159,France,33.5,1,0.8,0.3,1.9,0.9,0.5,Europe
+160,United Kingdom,33.2,0.8,1,1.9,0.8,2.9,1.7,Europe
+161,Singapore,32.5,0.4,1.5,3,1.1,2.7,2.2,Asia
+162,Slovenia,32.4,1.5,2.3,1.3,1.6,0.1,1.6,Europe
+163,Belgium,30.8,1.8,1.4,3,1.9,4.5,5.1,Europe
+164,Portugal,29,0.2,0.5,3.9,3.4,5,3.1,Europe
+165,Germany,28.1,0.5,0.5,2,1.1,3.1,5.3,Europe
+166,Austria,27.7,0.2,1.5,1,0.6,,0.2,Europe
+167,Netherlands,27.4,0.8,1.4,0.4,1.3,0.1,0.1,Europe
+168,Luxembourg,23.4,0.7,1.9,0.5,0.8,1.4,2,Europe
+169,Canada,22.6,1.2,1.9,3.6,2.2,3,3.9,North America
+169,New Zealand,22.6,1.3,1.3,2.8,1.4,4.3,3.5,Oceania
+171,Iceland,22.5,0.3,0.6,3.1,1.9,6.3,7.3,Europe
+172,Australia,22.3,0.2,1.8,3.8,2.9,6.7,5.6,Oceania
+172,Ireland,22.3,0.2,2.2,3.6,2.3,4,2.8,Europe
+174,Sweden,22.1,0.5,2.4,1.2,2.9,1.3,0.2,Europe
+175,Denmark,21.5,,,1.3,0.4,1.5,2.3,Europe
+176,Switzerland,21.1,0.7,0.5,1.5,0.3,1.5,1.4,Europe
+177,Norway,20.5,0.7,0.4,1.8,0.3,2.7,0.8,Europe
+178,Finland,18.7,0.1,1,0.1,0.8,1.2,0.9,Europe
